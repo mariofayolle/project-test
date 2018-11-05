@@ -1,0 +1,6 @@
+@mixin font-weight($property){
+    font-weight: $property;
+}
+@mixin font-italic($property){
+    font-style: $property;
+}

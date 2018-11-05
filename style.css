@@ -1,0 +1,17 @@
+.container, .big-container {
+  border: 1px solid black; }
+  .container h1, .big-container h1 {
+    color: black;
+    font-family: Helvetica, sans-serif; }
+  .container p, .big-container p {
+    color: yellow;
+    font-weight: bold; }
+  .container span, .big-container span {
+    font-style: italic; }
+  .container nav li, .big-container nav li {
+    color: blue; }
+
+.big-container {
+  background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
